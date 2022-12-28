@@ -55,7 +55,7 @@
 <br>
 <h2 align="center">:brain: What I'm playing with :money_mouth_face: </h2>
 <br>
-<p>I'm running an automated <strong>cryptocurrency trading bot</strong> :robot:. The project has been started for nearly 2 years and is about to be completed. Estimated profit more than <strong color='#238436'>10%</strong> :dollar: a year.
+<p>I'm running an automated <strong>cryptocurrency trading bot</strong> :robot:. The project has been started for nearly 2 years and is about to be completed. Estimated profit more than <strong style='color:#238436'>10%</strong> :dollar: a year.
 If you are interested please contact me to take a look at the project.</p>
 <!--
 **chienminh5298/chienminh5298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
