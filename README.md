@@ -2,10 +2,11 @@
   <img src="svg/background.svg" width="1200" alt="chienminh5298-official" />
 </a>
 <h2 align="center">Peeka :see_no_evil: Boo :hear_no_evil: </h2>
-<span>I'm Minh, a 24 years old web developer from Florida, US :us:</span>
+<p>I'm Minh, a 24 years old web developer from <strong>Florida, US</strong> :us:</p>
 <br>
-<span>Actually, I was born and raised in Vietnam :vietnam:. Currently residing in the US and pursuing the dream of traveling around the world.</span>
-<div align='center'>:tada: Welcome to my profile. :tada:</div>
+<p>Actually, I was born and raised in Vietnam :vietnam:. Currently residing in the US and pursuing the dream of traveling around the world.</p>
+<br>
+<div align='center'>:tada: <strong>Welcome to my profile.</strong> :tada:</div>
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -54,8 +55,8 @@
 <br>
 <h2 align="center">:brain: What I'm playing with :money_mouth_face: </h2>
 <br>
-<span>I'm running an automated cryptocurrency trading bot :robot:. The project has been started for nearly 2 years and is about to be completed. Estimated profit more than 10% :dollar: a year.
-If you are interested please contact me to take a look at the project.</span>
+<p>I'm running an automated <strong>cryptocurrency trading bot</strong> :robot:. The project has been started for nearly 2 years and is about to be completed. Estimated profit more than <strong color='#238436'>10%</strong> :dollar: a year.
+If you are interested please contact me to take a look at the project.</p>
 <!--
 **chienminh5298/chienminh5298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
