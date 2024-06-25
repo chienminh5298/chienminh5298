@@ -2,7 +2,7 @@
   <img src="svg/background.svg" width="1200" alt="chienminh5298-official" />
 </a>
 <h2 align="center">Peeka :see_no_evil: Boo :hear_no_evil: </h2>
-<p>I'm Minh, a 24 years old web developer from <strong>Florida, US</strong> :us:</p>
+<p>I'm Minh, a 26 years old web developer from <strong>Florida, US</strong> :us:</p>
 <br>
 <p>Actually, I was born and raised in Vietnam :vietnam:. Currently residing in the US and pursuing the dream of traveling around the world.</p>
 <br>
@@ -34,6 +34,22 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/amazonec2-282C34?logo=amazonec2&logoColor=FF9900" alt="AWS EC2 logo" title="AWS EC2" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+&nbsp;
+
+<br>
+<h2 align="center">Operation system</h2>
+<br>
+<span><img src="https://img.shields.io/badge/windows-282C34?logo=windows&logoColor=0078D4" alt="Window logo" title="Window" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/macos-282C34?logo=macos&logoColor=000000" alt="macOS logo" title="macOS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
 &nbsp;
 
 <br>
